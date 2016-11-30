@@ -8,7 +8,7 @@
 <head>
 <h3>Experience</h3>
 </head>
-<big>Brookdale Chrysler, Brooklyn Park MN - Wholesale Parts<big>
+<p><big>Brookdale Chrysler, Brooklyn Park MN - Wholesale Parts<big><p>
 <small>June 2003 - December 2011<small>
 <ul>Greeting customers, answering phones & questions</ul>
 <ul>Open and constant communication with Service Advisors & Technicians</ul>
@@ -16,7 +16,7 @@
 <ul>Inventory management by locating any parts not in stock.</ul>
 
 <head>
-<big>Luther Collision and Glass,  Bloomington MN - Parts Manager<big>
+<p><big>Luther Collision and Glass,  Bloomington MN - Parts Manager<big><p>
 </head>
 
 
