@@ -21,6 +21,16 @@
 
 <p><b>Luther Collision and Glass,  Bloomington MN - Parts Manager</b><p>
 <small>January 2012 - May 2014</small>
+<ul>
+  <li>Ordering parts for collision repair.</ul>
+  <li>Checking in parts for damage and matching to vehicle against work order</li>
+  <li>Posting parts to management system and checking against invoice</li>
+  <li>Processing returns</li>
+  <li>Paint prepping bumpers and body panels</li>
+  <li>Seam sealing hoods and doors</li>
+  <li>Maintaining a clean and organized work space</li>
+</ul>
+
 
 
 
