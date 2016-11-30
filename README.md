@@ -1,22 +1,29 @@
+<html>
 <head>
-<h1>Kenneth English</h1>
+<title>Kenneth English</title>
 </head>
 <p>11941 Dayton River Rd</p>
 <p>Dayton MN 55327</p>
 <p>763-218-4085</p>
 
-<head>
+<body>
 <h3>Experience</h3>
-</head>
-<p><big>Brookdale Chrysler, Brooklyn Park MN - Wholesale Parts<big><p>
+
+<p><b>Brookdale Chrysler, Brooklyn Park MN - Wholesale Parts</b><p>
 <small>June 2003 - December 2011<small>
-<ul>Greeting customers, answering phones & questions</ul>
-<ul>Open and constant communication with Service Advisors & Technicians</ul>
-<ul>Complete the parts sales process from customer inquiry to finding the part to invoicing the customer.</ul>
-<ul>Inventory management by locating any parts not in stock.</ul>
-
-<head>
-<p><big>Luther Collision and Glass,  Bloomington MN - Parts Manager<big><p>
-</head>
+<ul>
+  <li>Greeting customers, answering phones & questions</li>
+  <li>Open and constant communication with Service Advisors & Technicians</li>
+  <li>Complete the parts sales process from customer inquiry to finding the part to invoicing the customer.</li>
+  <li>Inventory management by locating any parts not in stock.</li>
+</ul>
 
 
+<p><b>Luther Collision and Glass,  Bloomington MN - Parts Manager</b><p>
+<small>January 2012 - May 2014</small>
+
+
+
+
+</body>
+</html>
