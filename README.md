@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Kenneth English</title>
+<title><h1>Kenneth English</h1></title>
 </head>
 <p>11941 Dayton River Rd</p>
 <p>Dayton MN 55327</p>
